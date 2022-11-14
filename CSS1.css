@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+}
+
+/*
+.heading {
+    font-size: 18px;
+}
+*/
+
+
+.main {
+    background-color: white;
+    padding: 50px;
+    border: 3px solid red;
+    border-radius: 5px;
+}
+
+section {
+    margin: 30px 10px;
+}
+
+p {
+    font-size: 14px;
+}
+
+.first-sec{
+    color: green;
+}
+
+.second-sec {
+    color: red;
+}
+
+.third-sec {
+    color: blue;
+}
