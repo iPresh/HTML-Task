@@ -1,0 +1,39 @@
+ * {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body {
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 16px;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blueviolet;
+}
+
+.container {
+    padding: 30px;
+    border: 2px dotted black;
+}
+
+ol {
+    list-style-type: upper-roman;
+    list-style-position: inside;
+  }
+
+ul {
+    list-style-type: circle;
+}
+
+
+.main{
+    color: black;
+    padding: 10px;
+    margin: 20px 30px;
+}
+
+#dislikes {
+    color: maroon;
+}
